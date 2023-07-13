@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms Parte 1\Frm_DemonstracaoKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms Parte 1\Frm_Mascara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms Parte 1\Frm_ValidaCPF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms Parte 1\Frm_ValidaCPF_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms Parte 1\Frm_ValidaSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms Parte 1\Frm_HelloWorld.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Main_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

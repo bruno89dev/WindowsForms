@@ -1,0 +1,12 @@
+F:\Cursos\Alura\WinForms2\WinFormsLib\bin\Debug\net6.0\WinFormsLib.deps.json
+F:\Cursos\Alura\WinForms2\WinFormsLib\bin\Debug\net6.0\WinFormsLib.dll
+F:\Cursos\Alura\WinForms2\WinFormsLib\bin\Debug\net6.0\WinFormsLib.pdb
+F:\Cursos\Alura\WinForms2\WinFormsLib\obj\Debug\net6.0\WinFormsLib.csproj.AssemblyReference.cache
+F:\Cursos\Alura\WinForms2\WinFormsLib\obj\Debug\net6.0\WinFormsLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cursos\Alura\WinForms2\WinFormsLib\obj\Debug\net6.0\WinFormsLib.AssemblyInfoInputs.cache
+F:\Cursos\Alura\WinForms2\WinFormsLib\obj\Debug\net6.0\WinFormsLib.AssemblyInfo.cs
+F:\Cursos\Alura\WinForms2\WinFormsLib\obj\Debug\net6.0\WinFormsLib.csproj.CoreCompileInputs.cache
+F:\Cursos\Alura\WinForms2\WinFormsLib\obj\Debug\net6.0\WinFormsLib.dll
+F:\Cursos\Alura\WinForms2\WinFormsLib\obj\Debug\net6.0\refint\WinFormsLib.dll
+F:\Cursos\Alura\WinForms2\WinFormsLib\obj\Debug\net6.0\WinFormsLib.pdb
+F:\Cursos\Alura\WinForms2\WinFormsLib\obj\Debug\net6.0\ref\WinFormsLib.dll
